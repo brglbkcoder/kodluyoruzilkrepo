@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![Proje Görseli]()
+![Proje Görseli](file:///C:/Users/asus/Desktop/Kodluyoruz%20%C4%B0lk%20Repo%202.html)
